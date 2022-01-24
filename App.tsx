@@ -70,7 +70,7 @@ export default function App() {
 					})
 				}}
 				query={{
-					key: "AIzaSyDN32RDieichw7HTB-mchzR-meK5L_Z5kg",
+					key: "api_key",
 					language: "en",
 					components: "country:us",
 					types: "establishment",
