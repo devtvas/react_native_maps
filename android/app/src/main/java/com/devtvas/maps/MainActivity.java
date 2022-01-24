@@ -1,4 +1,4 @@
-package com.maps;
+package com.devtvas.maps;
 
 import android.os.Build;
 import android.os.Bundle;
